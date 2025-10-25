@@ -2,7 +2,7 @@
 
 A responsive product landing page for "AuraGrow," a fictional high-tech smart pot. This project was built from scratch to practice modern HTML5 and CSS3, with a focus on Flexbox, CSS Grid, and responsive design.
 
-**[Add a screenshot of your project here! You can drag and drop it into the GitHub editor]**
+**<img src="./Screenshot 2025-10-25 071242.png" alt="App homepage screenshot" width="600">
 
 ### [Live Demo Link] (https://auragrow.netlify.app/)
 
